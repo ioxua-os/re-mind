@@ -1,4 +1,4 @@
-# re-mind
+![ReMind logo](images/gitLogo.png)
 ## A little calendar project in Java<br>
 Made with 3 more friends and a little buggy, but still usable :P
 ## What we used
